@@ -1,3 +1,5 @@
+# ¡ATENCIÒN! EL PROGRAMA NO ESTÁ COMPLETO, Y ASUME QUE YA ESTÁN CREADOS LOS ARCHIVOS CSV: users.csv, pants.csv, shoes.csv, jackets.csv.
+
 require 'csv'
 
 class Admin
